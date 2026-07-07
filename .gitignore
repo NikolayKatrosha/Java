@@ -1,0 +1,27 @@
+# Java build output
+build/
+out/
+target/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle and Maven local state
+.gradle/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE and editor files
+.idea/
+*.iml
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
