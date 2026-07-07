@@ -22,6 +22,11 @@ Java/
 - `HackerRank` - algorithm and problem-solving practice.
 - `Sandbox` - experiments, rewrites, and small isolated exercises.
 
+## Included Work
+
+- `Hillel/JavaElementary/Hometask1` - first refreshed Hillel Java Elementary homework.
+- `HackerRank/RateLimiter` - Maven-based HackerRank practice project with JUnit 5 tests.
+
 ## Current Focus
 
 I am currently refreshing and rewriting Hillel School Java tasks to keep the solutions clean, readable, and easy to review.
