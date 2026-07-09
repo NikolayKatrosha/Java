@@ -74,6 +74,7 @@ public class Task7 {
             grades[index] = grade;
             index++;
         }
+        scanner.close();
         return grades;
     }
 }
