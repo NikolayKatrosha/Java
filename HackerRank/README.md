@@ -2,6 +2,10 @@
 
 Java solutions for HackerRank practice tasks.
 
+## Java Track
+
+- `Java/Introduction/WelcomeToJava` - first Java introduction challenge: printing output.
+
 ## Current Projects
 
 - `RateLimiter` - Maven project with JUnit 5 tests.
