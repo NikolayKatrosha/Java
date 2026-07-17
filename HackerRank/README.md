@@ -5,6 +5,7 @@ Java solutions for HackerRank practice tasks.
 ## Java Track
 
 - `Java/Introduction/WelcomeToJava` - first Java introduction challenge: printing output.
+- `Java/Introduction/JavaStdinAndStdoutI` - read integers from standard input and print them.
 
 ## Current Projects
 
