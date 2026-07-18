@@ -26,7 +26,8 @@ Java/
 
 - `Hillel/JavaElementary/Hometask1` - first refreshed Hillel Java Elementary homework.
 - `HackerRank/RateLimiter` - Maven-based HackerRank practice project with JUnit 5 tests.
+- `Sandbox/CodexTasks/SelfPractice/InputValidation` - small console tasks for practicing input validation and control flow.
 
 ## Current Focus
 
-I am currently refreshing and rewriting Hillel School Java tasks to keep the solutions clean, readable, and easy to review.
+I am currently refreshing Hillel School Java tasks and adding independent Java practice exercises. The goal is to write solutions first, then review them for correctness, readability, edge cases, and better engineering habits.

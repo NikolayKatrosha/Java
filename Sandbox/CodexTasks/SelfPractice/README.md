@@ -8,6 +8,11 @@ Use this folder for exercises you try without AI first. The goal is not to write
 
 - `InputValidation` - console input, validation, loops, arrays, and conditions.
 
+## Completed Tasks
+
+- `InputValidation/task1` - Exam Average.
+- `InputValidation/task2` - Temperature Log.
+
 ## Suggested Workflow
 
 1. Read the task.
